@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="MiPush_SDK_Server_Http2_1.0.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MiPush_SDK_Server_Http2_1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opush-server-sdk-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pushy-0.14.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/trenddb-manage-provider-0.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vpush-server-sdk-2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
